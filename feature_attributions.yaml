@@ -1,0 +1,164 @@
+type: object
+properties:
+  trades:
+    type: number
+  rsi_3:
+    type: number
+  adx_3:
+    type: number
+  adx_neg_3:
+    type: number
+  adx_pos_3:
+    type: number
+  macd_3:
+    type: number
+  macd_diff_3:
+    type: number
+  macd_signal_3:
+    type: number
+  rsi_8:
+    type: number
+  adx_8:
+    type: number
+  adx_neg_8:
+    type: number
+  adx_pos_8:
+    type: number
+  macd_8:
+    type: number
+  macd_diff_8:
+    type: number
+  macd_signal_8:
+    type: number
+  rsi_13:
+    type: number
+  adx_13:
+    type: number
+  adx_neg_13:
+    type: number
+  adx_pos_13:
+    type: number
+  macd_13:
+    type: number
+  macd_diff_13:
+    type: number
+  macd_signal_13:
+    type: number
+  rsi_18:
+    type: number
+  adx_18:
+    type: number
+  adx_neg_18:
+    type: number
+  adx_pos_18:
+    type: number
+  macd_18:
+    type: number
+  macd_diff_18:
+    type: number
+  macd_signal_18:
+    type: number
+  rsi_23:
+    type: number
+  adx_23:
+    type: number
+  adx_neg_23:
+    type: number
+  adx_pos_23:
+    type: number
+  macd_23:
+    type: number
+  macd_diff_23:
+    type: number
+  macd_signal_23:
+    type: number
+  rsi_28:
+    type: number
+  adx_28:
+    type: number
+  adx_neg_28:
+    type: number
+  adx_pos_28:
+    type: number
+  macd_28:
+    type: number
+  macd_diff_28:
+    type: number
+  macd_signal_28:
+    type: number
+  rsi_33:
+    type: number
+  adx_33:
+    type: number
+  adx_neg_33:
+    type: number
+  adx_pos_33:
+    type: number
+  macd_33:
+    type: number
+  macd_diff_33:
+    type: number
+  macd_signal_33:
+    type: number
+  rsi_38:
+    type: number
+  adx_38:
+    type: number
+  adx_neg_38:
+    type: number
+  adx_pos_38:
+    type: number
+  macd_38:
+    type: number
+  macd_diff_38:
+    type: number
+  macd_signal_38:
+    type: number
+  rsi_43:
+    type: number
+  adx_43:
+    type: number
+  adx_neg_43:
+    type: number
+  adx_pos_43:
+    type: number
+  macd_43:
+    type: number
+  macd_diff_43:
+    type: number
+  macd_signal_43:
+    type: number
+  rsi_48:
+    type: number
+  adx_48:
+    type: number
+  adx_neg_48:
+    type: number
+  adx_pos_48:
+    type: number
+  macd_48:
+    type: number
+  macd_diff_48:
+    type: number
+  macd_signal_48:
+    type: number
+  log_return_1:
+    type: number
+  log_return_11:
+    type: number
+  log_return_21:
+    type: number
+  log_return_31:
+    type: number
+  log_return_41:
+    type: number
+  log_return_51:
+    type: number
+  log_return_61:
+    type: number
+  log_return_71:
+    type: number
+  log_return_81:
+    type: number
+  log_return_91:
+    type: number

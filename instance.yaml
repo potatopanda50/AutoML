@@ -1,0 +1,410 @@
+type: object
+required:
+- trades
+- rsi_3
+- adx_3
+- adx_neg_3
+- adx_pos_3
+- macd_3
+- macd_diff_3
+- macd_signal_3
+- rsi_8
+- adx_8
+- adx_neg_8
+- adx_pos_8
+- macd_8
+- macd_diff_8
+- macd_signal_8
+- rsi_13
+- adx_13
+- adx_neg_13
+- adx_pos_13
+- macd_13
+- macd_diff_13
+- macd_signal_13
+- rsi_18
+- adx_18
+- adx_neg_18
+- adx_pos_18
+- macd_18
+- macd_diff_18
+- macd_signal_18
+- rsi_23
+- adx_23
+- adx_neg_23
+- adx_pos_23
+- macd_23
+- macd_diff_23
+- macd_signal_23
+- rsi_28
+- adx_28
+- adx_neg_28
+- adx_pos_28
+- macd_28
+- macd_diff_28
+- macd_signal_28
+- rsi_33
+- adx_33
+- adx_neg_33
+- adx_pos_33
+- macd_33
+- macd_diff_33
+- macd_signal_33
+- rsi_38
+- adx_38
+- adx_neg_38
+- adx_pos_38
+- macd_38
+- macd_diff_38
+- macd_signal_38
+- rsi_43
+- adx_43
+- adx_neg_43
+- adx_pos_43
+- macd_43
+- macd_diff_43
+- macd_signal_43
+- rsi_48
+- adx_48
+- adx_neg_48
+- adx_pos_48
+- macd_48
+- macd_diff_48
+- macd_signal_48
+- log_return_1
+- log_return_11
+- log_return_21
+- log_return_31
+- log_return_41
+- log_return_51
+- log_return_61
+- log_return_71
+- log_return_81
+- log_return_91
+properties:
+  trades:
+    type: string
+    nullable: true
+  rsi_3:
+    type: string
+    nullable: true
+  adx_3:
+    type: string
+    nullable: true
+  adx_neg_3:
+    type: string
+    nullable: true
+  adx_pos_3:
+    type: string
+    nullable: true
+  macd_3:
+    type: string
+    nullable: true
+  macd_diff_3:
+    type: string
+    nullable: true
+  macd_signal_3:
+    type: string
+    nullable: true
+  rsi_8:
+    type: string
+    nullable: true
+  adx_8:
+    type: string
+    nullable: true
+  adx_neg_8:
+    type: string
+    nullable: true
+  adx_pos_8:
+    type: string
+    nullable: true
+  macd_8:
+    type: string
+    nullable: true
+  macd_diff_8:
+    type: string
+    nullable: true
+  macd_signal_8:
+    type: string
+    nullable: true
+  rsi_13:
+    type: string
+    nullable: true
+  adx_13:
+    type: string
+    nullable: true
+  adx_neg_13:
+    type: string
+    nullable: true
+  adx_pos_13:
+    type: string
+    nullable: true
+  macd_13:
+    type: string
+    nullable: true
+  macd_diff_13:
+    type: string
+    nullable: true
+  macd_signal_13:
+    type: string
+    nullable: true
+  rsi_18:
+    type: string
+    nullable: true
+  adx_18:
+    type: string
+    nullable: true
+  adx_neg_18:
+    type: string
+    nullable: true
+  adx_pos_18:
+    type: string
+    nullable: true
+  macd_18:
+    type: string
+    nullable: true
+  macd_diff_18:
+    type: string
+    nullable: true
+  macd_signal_18:
+    type: string
+    nullable: true
+  rsi_23:
+    type: string
+    nullable: true
+  adx_23:
+    type: string
+    nullable: true
+  adx_neg_23:
+    type: string
+    nullable: true
+  adx_pos_23:
+    type: string
+    nullable: true
+  macd_23:
+    type: string
+    nullable: true
+  macd_diff_23:
+    type: string
+    nullable: true
+  macd_signal_23:
+    type: string
+    nullable: true
+  rsi_28:
+    type: string
+    nullable: true
+  adx_28:
+    type: string
+    nullable: true
+  adx_neg_28:
+    type: string
+    nullable: true
+  adx_pos_28:
+    type: string
+    nullable: true
+  macd_28:
+    type: string
+    nullable: true
+  macd_diff_28:
+    type: string
+    nullable: true
+  macd_signal_28:
+    type: string
+    nullable: true
+  rsi_33:
+    type: string
+    nullable: true
+  adx_33:
+    type: string
+    nullable: true
+  adx_neg_33:
+    type: string
+    nullable: true
+  adx_pos_33:
+    type: string
+    nullable: true
+  macd_33:
+    type: string
+    nullable: true
+  macd_diff_33:
+    type: string
+    nullable: true
+  macd_signal_33:
+    type: string
+    nullable: true
+  rsi_38:
+    type: string
+    nullable: true
+  adx_38:
+    type: string
+    nullable: true
+  adx_neg_38:
+    type: string
+    nullable: true
+  adx_pos_38:
+    type: string
+    nullable: true
+  macd_38:
+    type: string
+    nullable: true
+  macd_diff_38:
+    type: string
+    nullable: true
+  macd_signal_38:
+    type: string
+    nullable: true
+  rsi_43:
+    type: string
+    nullable: true
+  adx_43:
+    type: string
+    nullable: true
+  adx_neg_43:
+    type: string
+    nullable: true
+  adx_pos_43:
+    type: string
+    nullable: true
+  macd_43:
+    type: string
+    nullable: true
+  macd_diff_43:
+    type: string
+    nullable: true
+  macd_signal_43:
+    type: string
+    nullable: true
+  rsi_48:
+    type: string
+    nullable: true
+  adx_48:
+    type: string
+    nullable: true
+  adx_neg_48:
+    type: string
+    nullable: true
+  adx_pos_48:
+    type: string
+    nullable: true
+  macd_48:
+    type: string
+    nullable: true
+  macd_diff_48:
+    type: string
+    nullable: true
+  macd_signal_48:
+    type: string
+    nullable: true
+  log_return_1:
+    type: string
+    nullable: true
+  log_return_11:
+    type: string
+    nullable: true
+  log_return_21:
+    type: string
+    nullable: true
+  log_return_31:
+    type: string
+    nullable: true
+  log_return_41:
+    type: string
+    nullable: true
+  log_return_51:
+    type: string
+    nullable: true
+  log_return_61:
+    type: string
+    nullable: true
+  log_return_71:
+    type: string
+    nullable: true
+  log_return_81:
+    type: string
+    nullable: true
+  log_return_91:
+    type: string
+    nullable: true
+nullable: true
+example:
+  trades: '29992.0'
+  rsi_3: '50.19187805797467'
+  adx_3: '51.07787305756767'
+  adx_neg_3: '17.14828930907458'
+  adx_pos_3: '16.95892942025241'
+  macd_3: '6.33489558642987e-06'
+  macd_diff_3: '2.9982120753144913e-06'
+  macd_signal_3: '7.4567232131779645e-06'
+  rsi_8: '50.1055201865744'
+  adx_8: '31.299770573039357'
+  adx_neg_8: '19.352743206505533'
+  adx_pos_8: '18.99384052057955'
+  macd_8: '1.74305681919229e-05'
+  macd_diff_8: '1.2395655038597493e-05'
+  macd_signal_8: '2.338967371568921e-05'
+  rsi_13: '50.011257595184794'
+  adx_13: '25.04928154262573'
+  adx_neg_13: '19.846333970608804'
+  adx_pos_13: '19.39918776390129'
+  macd_13: '7.201023621332402e-06'
+  macd_diff_13: '3.038829576497755e-05'
+  macd_signal_13: '1.940028813631987e-06'
+  rsi_18: '49.94316917357243'
+  adx_18: '21.698404485776983'
+  adx_neg_18: '20.116290181996067'
+  adx_pos_18: '19.549837309290126'
+  macd_18: '-3.9334457704661735e-05'
+  macd_diff_18: '8.097104161943211e-05'
+  macd_signal_18: '-6.470390814388737e-05'
+  rsi_23: '49.88308948192535'
+  adx_23: '19.510823337610056'
+  adx_neg_23: '20.29964557267453'
+  adx_pos_23: '19.624377628183037'
+  macd_23: '-9.380822552277138e-05'
+  macd_diff_23: '0.0001345913290079534'
+  macd_signal_23: '-0.00011765227702408342'
+  rsi_28: '49.822015555765'
+  adx_28: '17.997295926853933'
+  adx_neg_28: '20.455797387594934'
+  adx_pos_28: '19.66966076877226'
+  macd_28: '-0.0001428775563828491'
+  macd_diff_28: '0.0001700530180938432'
+  macd_signal_28: '-0.0001584606805742571'
+  rsi_33: '49.780757587562846'
+  adx_33: '16.837356950483464'
+  adx_neg_33: '20.57342601173021'
+  adx_pos_33: '19.710243250888144'
+  macd_33: '-0.000185907764824687'
+  macd_diff_33: '0.000177716684748287'
+  macd_signal_33: '-0.00022051088793848843'
+  rsi_38: '49.74177063118506'
+  adx_38: '15.953131935936653'
+  adx_neg_38: '20.66879279512163'
+  adx_pos_38: '19.724219752967148'
+  macd_38: '-0.0002570885131149836'
+  macd_diff_38: '0.0001865553590301413'
+  macd_signal_38: '-0.00028419918475260634'
+  rsi_43: '49.72300794831098'
+  adx_43: '15.23946402480632'
+  adx_neg_43: '20.754174077484752'
+  adx_pos_43: '19.747681851546183'
+  macd_43: '-0.00031118097546952665'
+  macd_diff_43: '0.0002189033882046797'
+  macd_signal_43: '-0.000355738837873204'
+  rsi_48: '49.70156522880855'
+  adx_48: '14.64406792980371'
+  adx_neg_48: '20.82074449933713'
+  adx_pos_48: '19.75207198412042'
+  macd_48: '-0.00039399346422022696'
+  macd_diff_48: '0.0002825867790865127'
+  macd_signal_48: '-0.0004560157764861925'
+  log_return_1: '0.00043164183889703015'
+  log_return_11: '0.00019316206357152224'
+  log_return_21: '0.003283212615044557'
+  log_return_31: '0.0035714323675971795'
+  log_return_41: '0.0035524016043679218'
+  log_return_51: '0.002220249579912013'
+  log_return_61: '0.0014811160446440304'
+  log_return_71: '0.00010251678721363452'
+  log_return_81: '-0.0009446790940857431'
+  log_return_91: '-0.0014876804231449307'
